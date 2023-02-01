@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+	"baseUrl": "./src",
+	"esModuleInterop": true,
+	"forceConsistentCasingInFileNames": true,
+	"module": "commonjs",
+	"outDir": "dist",
+	"paths": {
+	    "~/*": ["./*"]
+	},
+	"strict": true,
+	"skipLibCheck": true,
+	"target": "es2016"
+    }
+}
